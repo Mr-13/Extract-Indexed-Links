@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Usage:
     extract_link.py <link>
     extract_link.py -i <link> -o FILE
