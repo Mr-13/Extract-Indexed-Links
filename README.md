@@ -36,4 +36,4 @@ one go.
         -o FILE      specify output file [default: ./extracted_links.txt]
 
 
-*This tool is part of one of my recovered my hobby projects which got damaged with my old laptop.*
+*This tool is part of one of my recovered hobby projects which got damaged with my old laptop.*
